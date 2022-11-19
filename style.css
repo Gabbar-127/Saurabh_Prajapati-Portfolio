@@ -105,7 +105,8 @@ nav ul li a:hover::after {
 
 .about-col-1 img {
 
-    width: 80%;
+    width: 100%;
+    height: 100%;
     border-radius: 10px;
 }
 
