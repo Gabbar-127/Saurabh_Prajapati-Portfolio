@@ -75,6 +75,7 @@ nav ul li a:hover::after {
 
 .header-text p{
     color: #70f20d;
+    font-size: 35px;
 }
 
 .header-text h1 {
@@ -84,6 +85,7 @@ nav ul li a:hover::after {
 
 .header-text h1 span {
     color: #70f20d;
+    font-size: 30px;
 
 }
 
