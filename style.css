@@ -69,19 +69,40 @@ nav ul li a:hover::after {
 }
 
 .header-text {
-    margin-top: 20%;
+    margin-top: 15%;
     font-size: 40px;
 }
 
-.header-text p{
-    color: #70f20d;
+.header-text p p1 p2{
+    color: #fff;
     font-size: 35px;
 }
+
+.header-text p1 span{
+
+    color: #ff004f;
+}
+.header-text h5{
+    font-size:  20px;
+    margin-top: 10px;
+    color: #61b752;
+}
+
+ .header-text p3{
+   color: #08f563;
+   font-size: 20px;
+ }
 
 .header-text h1 {
     font-size: 50px;
     margin-top: 20px;
 }
+.header-text h6 {
+    font-size:  15px;
+    margin-top: 10px;
+    color: #ababab;
+}
+
 
 .header-text h1 span {
     color: #70f20d;
